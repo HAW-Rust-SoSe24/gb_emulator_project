@@ -1,5 +1,12 @@
 ## Gameboy Rust SoSE 24 Project
 
+---
+
+> [!IMPORTANT]  
+> While the project is now finished, I've continued to work on it in [ANOTHER REPOSITORY](https://github.com/AnnsAnns/gb_emulator)
+
+---
+
 # [Docs](https://haw-rust-sose24.github.io/gb_emulator/)
 
 ![msrdc_4LGF6VzZB3](https://github.com/user-attachments/assets/4e216b44-cdca-4dac-879a-c4d0c7d13fce)
